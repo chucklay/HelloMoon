@@ -1,5 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
+<<<<<<< HEAD
     package="com.claymon.hellomoon" >
 
     <application
@@ -7,6 +8,14 @@
         android:icon="@drawable/ic_launcher"
         android:label="@string/app_name"
         android:theme="@style/AppTheme" >
+=======
+    package="com.claymon.android.hellomoon" >
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name" >
+>>>>>>> branch 'master' of https://github.com/chucklay/HelloMoon
         <activity
             android:name=".HelloMoonActivity"
             android:label="@string/app_name" >
